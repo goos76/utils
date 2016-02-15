@@ -1,5 +1,5 @@
-*.classpath
-*.project
-*.prefs
-*.component
-*.xml
+/commons/*.classpath
+/commons/*.project
+/commons/.settings/*.prefs
+/commons/.settings/*.component
+/commons/.settings/*.xml
